@@ -41,3 +41,7 @@ long_window = 180
 ![Logistic Regression Plot](https://raw.githubusercontent.com/halamkim/challenge_14/main/Logistic%20Regression%20Plot.png)
 
 **Conclusion**: compared to the baseline model, the logistic regression model performed better from late 2019 to the end of 2020 when the strategy returns underperform the actual returns. 
+
+
+## Overall Evaluation 
+Overall, the best performing plot that was chosen is not beating the actual returns by a lot but rather consistently. It takes trial-and-error to find the best performing strategy. Hwoever, this proves that what defines "best strategy" is customer-oriented since the best strategy might include low risk and always outperforming the actual market just like the one chosen as the best plot in this challenge. 
